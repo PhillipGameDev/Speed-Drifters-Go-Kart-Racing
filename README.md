@@ -13,7 +13,7 @@ Description Join the Speed Drifters. Buckle up the kart racing experience. The u
  
 # Screenshots
 [![Football Game 2023 Soccer](https://img.youtube.com/vi/d-M6xPpxGwA/mqdefault.jpg)](https://www.youtube.com/embed/d-M6xPpxGwA "Football Game 2023 Soccer")
-![image](https://github.com/PhillipM9512/Speed-Drifters-Go-Kart-Racing/blob/master/Assets/Board/1.webp)
-![image](https://github.com/PhillipM9512/Speed-Drifters-Go-Kart-Racing/blob/master/Assets/Board/2.webp)
-![image](https://github.com/PhillipM9512/Speed-Drifters-Go-Kart-Racing/blob/master/Assets/Board/3.webp)
+![image](https://github.com/kowalewskiadrian/Speed-Drifters-Go-Kart-Racing/blob/master/Assets/Board/1.webp)
+![image](https://github.com/kowalewskiadrian/Speed-Drifters-Go-Kart-Racing/blob/master/Assets/Board/2.webp)
+![image](https://github.com/kowalewskiadrian/Speed-Drifters-Go-Kart-Racing/blob/master/Assets/Board/3.webp)
 
